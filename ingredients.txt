@@ -1,4 +1,5 @@
-2 eggs
+6 eggs
 salt
 2 sausages
 bacon
+tomatoes
